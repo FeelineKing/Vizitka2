@@ -1,0 +1,24 @@
+.aboutMe {
+  width: 100%;
+  height: calc(100vh - 80px);
+  background: #281A35;
+  padding: 5vh 10vw;
+  box-sizing: border-box;
+  position: relative;
+
+  &__content {
+    width: calc(100%);
+    height: calc(100vh - 30vh);
+    background: #375FB8;
+    position: relative;
+  }
+
+  &__photo {
+    height: 60vh;
+    position: absolute;
+    z-index: 3;
+    left: -5vh;
+    top: 5vh;
+    border: 1px solid black;
+  }
+}
