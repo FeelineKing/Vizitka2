@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea40c50f450dbdbaaeed3e5a23e380d9",
+    "revision": "dbd0573c15c49e896d653bf56db30199",
     "url": "/Vizitka2/index.html"
   },
   {
-    "revision": "070d0538e5d8742cf5d6",
-    "url": "/Vizitka2/static/css/main.f504818e.chunk.css"
+    "revision": "300f37f02b27413d18b3",
+    "url": "/Vizitka2/static/css/main.f5db607d.chunk.css"
   },
   {
     "revision": "271ca0266d9a184d63dc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vizitka2/static/js/2.d5578c13.chunk.js.LICENSE"
   },
   {
-    "revision": "070d0538e5d8742cf5d6",
-    "url": "/Vizitka2/static/js/main.f9c94c7b.chunk.js"
+    "revision": "300f37f02b27413d18b3",
+    "url": "/Vizitka2/static/js/main.38bc7ab7.chunk.js"
   },
   {
     "revision": "e0c96cfe88c9a9c13ad4",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vizitka2/static/media/headerBackground.01750294.png"
   },
   {
-    "revision": "be18ac7f8c8d695bfbcb7cb7ee91c0d7",
-    "url": "/Vizitka2/static/media/headerPerson.be18ac7f.png"
+    "revision": "ab15b141c1dca793f4396e4e27d20bff",
+    "url": "/Vizitka2/static/media/headerPerson.ab15b141.png"
   },
   {
     "revision": "91095094a4a470669a85aeb2326ccc36",

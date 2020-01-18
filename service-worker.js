@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Vizitka2/precache-manifest.37279962e5272aebe3ab51275c571ec0.js"
+  "/Vizitka2/precache-manifest.77a2d292c3de4aa51cb13a2aa705ccbe.js"
 );
 
 self.addEventListener('message', (event) => {
