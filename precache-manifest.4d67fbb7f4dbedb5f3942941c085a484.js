@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbd0573c15c49e896d653bf56db30199",
+    "revision": "524a41ece1b9e7463a816047d50a58c7",
     "url": "/Vizitka2/index.html"
   },
   {
-    "revision": "300f37f02b27413d18b3",
-    "url": "/Vizitka2/static/css/main.f5db607d.chunk.css"
+    "revision": "79ddf96cc364e649c040",
+    "url": "/Vizitka2/static/css/main.8fa048d9.chunk.css"
   },
   {
     "revision": "271ca0266d9a184d63dc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Vizitka2/static/js/2.d5578c13.chunk.js.LICENSE"
   },
   {
-    "revision": "300f37f02b27413d18b3",
-    "url": "/Vizitka2/static/js/main.38bc7ab7.chunk.js"
+    "revision": "79ddf96cc364e649c040",
+    "url": "/Vizitka2/static/js/main.5fbf9c78.chunk.js"
   },
   {
     "revision": "e0c96cfe88c9a9c13ad4",
